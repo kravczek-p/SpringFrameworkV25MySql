@@ -1,0 +1,5 @@
+kravzek\mymysql\dao\PersonDAO.class
+kravzek\mymysql\controllers\PeopleController.class
+kravzek\mymysql\config\SpringConfig.class
+kravzek\mymysql\models\Person.class
+kravzek\mymysql\config\MySpringMvcDispatcherSerlvetIntitializer.class
